@@ -5,19 +5,45 @@ import time
 import traceback
 from playwright.sync_api import sync_playwright
 
-LOG_FILE = '/Users/victorli/Documents/GitHub/Mining Determinants of Child Care Quality/crawler-log.txt'
-def log(message, file=LOG_FILE):
+log_file = '/Users/victorli/Documents/GitHub/Mining Determinants of Child Care Quality/crawler-found-url-log.txt'
+def log(message, file=log_file):
     with open(file, 'a') as f:
         f.write(message + '\n')
         print(message)
 
-BASE_URL = 'https://families.decal.ga.gov/ChildCare/detail/'
+# df = pd.read_csv('data/scraped_invalid_urls.csv')
+# 
+# SEARCH_URL = 'https://families.decal.ga.gov/ChildCare/Search'
+# FOUND_URL_BASE = 'https://families.decal.ga.gov/ChildCare/'
+# with sync_playwright() as p:
+#     browser = p.chromium.launch(
+#         headless=True,
+#         executable_path='chrome-headless-shell-mac-arm64/chrome-headless-shell'
+#     )
+#     page = browser.new_page()
+#     for i in range(df.shape[0]):
+#         provider_number = df['ids'][i]
+#         page.goto(SEARCH_URL)
+#         page.fill('input[id="Content_Main_ProviderSearch_txtLocationName"]', provider_number)
+#         page.click('input[id="Content_Main_ProviderSearch_btnSearch"]')
+#         time.sleep(1)
+#         if page.locator('p[id="lblTotalRecords"]').inner_text() == '':
+#             log(f'No results found for {provider_number}')
+#             continue
+#         elif page.locator('p[id="lblTotalRecords"]').inner_text().split(' ')[-1] != '1':
+#             log(f'Multiple results found for {provider_number}, needs manual check')
+#             continue
+#         else:
+#             view_button = page.locator('a[class="lId button btn green btn-block no-print track-action"]')
+#             href = view_button.get_attribute('href').strip()
+#             log(f'URL for {provider_number}: {FOUND_URL_BASE + href}')
+#             df.at[i, 'found_url'] = FOUND_URL_BASE + href
+
+# df.to_csv('data/scraped_invalid_urls.csv', index=False)
+
 DOWNLOAD_BASE_PATH = 'data/downloads/'
-
-SEARCH_URL = 'https://families.decal.ga.gov/ChildCare/Search'
-FOUND_URL_BASE = 'https://families.decal.ga.gov/ChildCare/'
-
-df = pd.read_csv('data/all_provider_data.csv')
+df_found = pd.read_csv('data/scraped_found_urls.csv')
+df_found = df_found.dropna(subset=['found_url'])
 
 known_ids = {'Content_Main_lblLicenseNumber': 'Provider_Number',
              'Content_Main_lblAdmin': 'admin_name',
@@ -98,8 +124,8 @@ known_ids = {'Content_Main_lblLicenseNumber': 'Provider_Number',
              'Content_Main_cblEnvironment_5': 'smoke_free',
              }
 
-# start = 0
-start = df.index[df['Provider_Number'] == 'EX-43141'][0] + 1
+start = 0
+# start = df.index[df['Provider_Number'] == 'EX-43141'][0] + 1
 rows = []
 try:
     with sync_playwright() as p:
@@ -108,31 +134,16 @@ try:
             executable_path='chrome-headless-shell-mac-arm64/chrome-headless-shell'
         )
         page = browser.new_page()
-
-        for provider_id in df['Provider_Number'].iloc[start:]:
+        for url in df_found['found_url'].iloc[start:]:
+            provider_id = df_found[df_found['found_url'] == url]['ids'].values[0]
             row = {k: None for k in known_ids.keys()}
             unknown = {}
-            
-            provider_number = str(provider_id).split('-')[1].strip()
-            url = BASE_URL + str(provider_number)
-            time.sleep(1)
+
             page.goto(url)
+            time.sleep(1)
             if page.url != url:
-                page.goto(SEARCH_URL)
-                page.fill('input[id="Content_Main_ProviderSearch_txtLocationName"]', provider_id)
-                page.click('input[id="Content_Main_ProviderSearch_btnSearch"]')
-                time.sleep(1)
-                if page.locator('p[id="lblTotalRecords"]').inner_text() == '':
-                    log(f'Could not find valid URL for {provider_number}')
-                    continue
-                elif page.locator('p[id="lblTotalRecords"]').inner_text().split(' ')[-1] != '1':
-                    log(f'Multiple results found for {provider_number}')
-                    continue
-                else:
-                    view_button = page.locator('a[class="lId button btn green btn-block no-print track-action"]')
-                    href = view_button.get_attribute('href').strip()
-                    page.goto(FOUND_URL_BASE + href)
-                    row['url'] = FOUND_URL_BASE + href
+                log(f'Error loading page for URL {url}, got {page.url} instead')
+                continue
             else:
                 row['url'] = url
 
@@ -209,6 +220,8 @@ except Exception as e:
 
 out_cols = list(known_ids.values()) + ['unknown_ids'] + ['url', 'num_downloadable_files']
 out_df = pd.DataFrame(rows, columns=out_cols)
-out_df.to_csv('data/scraped_provider_data_sample9.csv', index=False)
+out_df.to_csv('data/scraped_provider_data_sample10.csv', index=False)
+
+
 
 

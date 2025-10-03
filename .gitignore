@@ -1,4 +1,6 @@
 .venv/
 chrome-headless-shell-mac-arm64/
+chrome-headless-shell-mac-arm64-copy/
 .DS_Store
 data/
+crawled-data/
