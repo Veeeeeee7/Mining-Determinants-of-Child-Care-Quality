@@ -4,7 +4,7 @@ import os
 import json, ast
 import re
 
-df = pd.read_csv('data/crawled_data/complete_scraped_data.csv')
+df = pd.read_csv('data/original_crawled_data/complete_scraped_data.csv')
 
 def reorder_compliance_columns(col_name):
     """
@@ -85,15 +85,11 @@ rest = city_state_zip[1].replace('', pd.NA)
 rest_split = rest.fillna('').astype(str).str.split(' - ', n=1, expand=True)
 df['mailing_state'] = rest_split[0].replace('', pd.NA).str.strip()
 df['mailing_zip'] = pd.to_numeric(rest_split[1].replace('', pd.NA).str.strip(), errors='coerce').astype('Int64')
-df.drop(columns=['unknown_ids', 'id', 'mailing_city_state_zip'], inplace=True)
+df.drop(columns=['unknown_ids', 'mailing_city_state_zip'], inplace=True)
 df.rename(columns={'zip_code': 'zip'}, inplace=True)
 df = df.applymap(_unknown_to_nan)
 
 # merge dfs
-df_violations = pd.read_csv('data/crawled_data/scraped_violations.csv')
-df = df.merge(df_violations, left_on='Provider_Number', right_on='id', how='left')
-df.drop(columns=['id'], inplace=True)
-
 df_additional = pd.read_csv('data/preprocessed_provider_data.csv')
 
 df = merge_single_column(df, df_additional, 'location', 'Location')
@@ -496,6 +492,7 @@ column_order = [
     "rates_table_daily_drop_in_care_5_years_and_older",
     "rates_table_day_camp_min_5_years_and_older",
     "rates_table_day_camp_max_5_years_and_older",
+    "compliance",
     "compliance_2025_total_rule_violations",
     "compliance_2025_total_rules_met",
     "compliance_2024_total_rule_violations",
@@ -687,8 +684,10 @@ column_order = [
 
 df = df[column_order]
 
-with open('df_columns.txt', 'w', encoding='utf-8') as f:
-    for col in df.columns:
-        f.write(f"{col}\n")
+# with open('df_columns.txt', 'w', encoding='utf-8') as f:
+#     for col in df.columns:
+#         f.write(f"{col}\n")
+
+
 
 df.to_csv('data/crawled_data/cleaned_complete_scraped_data.csv', index=False)

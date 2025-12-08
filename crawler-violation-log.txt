@@ -383,11 +383,12 @@ Provider EX-51491 redirected to https://families.decal.ga.gov/ChildCare/Detail/5
 Provider LSS-222 redirected to https://families.decal.ga.gov/ChildCare/Detail/222
 Provider EX-42077 redirected to https://families.decal.ga.gov/ChildCare/Detail/42077
 Successfully retrieved violations data for Provider CCLC-1794 at https://families.decal.ga.gov/Provider/Details/1794
+Successfully retrieved violations data for Provider CCLC-1794 at https://families.decal.ga.gov/Provider/Details/1794
 Provider EX-43423 redirected to https://families.decal.ga.gov/ChildCare/Detail/43423
 Successfully retrieved violations data for Provider CCLC-3415 at https://families.decal.ga.gov/Provider/Details/3415
 Provider EX-42387 redirected to https://families.decal.ga.gov/ChildCare/Detail/42387
 Successfully retrieved violations data for Provider CCLC-23311 at https://families.decal.ga.gov/Provider/Details/23311
-Provider GAHS-49737 redirected to https://families.decal.ga.gov/ChildCare/Detail/49737
+Provider GAHS-49737 redirected to https://families.decal.ga.gov/ChildCare/Search
 Provider LSS-57068 redirected to https://families.decal.ga.gov/ChildCare/Detail/57068
 Provider EX-46929 redirected to https://families.decal.ga.gov/ChildCare/Detail/46929
 Provider LSS-97 redirected to https://families.decal.ga.gov/ChildCare/Detail/97
@@ -502,8 +503,8 @@ Provider EX-52872 redirected to https://families.decal.ga.gov/ChildCare/Detail/5
 Provider EX-52863 redirected to https://families.decal.ga.gov/ChildCare/Detail/52863
 Successfully retrieved violations data for Provider CCLC-1805 at https://families.decal.ga.gov/Provider/Details/1805
 Successfully retrieved violations data for Provider CCLC-33846 at https://families.decal.ga.gov/Provider/Details/33846
-Provider GAHS-49728 redirected to https://families.decal.ga.gov/ChildCare/Detail/49728
-Provider GAHS-49872 redirected to https://families.decal.ga.gov/ChildCare/Detail/49872
+Provider GAHS-49728 redirected to https://families.decal.ga.gov/ChildCare/Search
+Provider GAHS-49872 redirected to https://families.decal.ga.gov/ChildCare/Search
 Provider LSS-1669 redirected to https://families.decal.ga.gov/ChildCare/Detail/1669
 Provider LSS-1670 redirected to https://families.decal.ga.gov/ChildCare/Detail/1670
 Provider EX-43832 redirected to https://families.decal.ga.gov/ChildCare/Detail/43832
@@ -784,9 +785,9 @@ Successfully retrieved violations data for Provider FR-48094 at https://families
 Provider EX-51295 redirected to https://families.decal.ga.gov/ChildCare/Detail/51295
 Provider EX-47957 redirected to https://families.decal.ga.gov/ChildCare/Detail/47957
 Provider LSS-30755 redirected to https://families.decal.ga.gov/ChildCare/Detail/30755
-Provider GAEHS-49873 redirected to https://families.decal.ga.gov/ChildCare/Detail/49873
+Provider GAEHS-49873 redirected to https://families.decal.ga.gov/ChildCare/Search
 Successfully retrieved violations data for Provider CCLC-23312 at https://families.decal.ga.gov/Provider/Details/23312
-Provider GAHS-49751 redirected to https://families.decal.ga.gov/ChildCare/Detail/49751
+Provider GAHS-49751 redirected to https://families.decal.ga.gov/ChildCare/Search
 Successfully retrieved violations data for Provider FR-23974 at https://families.decal.ga.gov/Provider/Details/23974
 Successfully retrieved violations data for Provider CCLC-49242 at https://families.decal.ga.gov/Provider/Details/49242
 Successfully retrieved violations data for Provider FR-23465 at https://families.decal.ga.gov/Provider/Details/23465
@@ -954,10 +955,12 @@ Provider EX-44803 redirected to https://families.decal.ga.gov/ChildCare/Detail/4
 Successfully retrieved violations data for Provider CCLC-46239 at https://families.decal.ga.gov/Provider/Details/46239
 Successfully retrieved violations data for Provider CCLC-33532 at https://families.decal.ga.gov/Provider/Details/33532
 Successfully retrieved violations data for Provider FR-000011415 at https://families.decal.ga.gov/Provider/Details/000009739
+Successfully retrieved violations data for Provider FR-000011415 at https://families.decal.ga.gov/Provider/Details/000009739
 Successfully retrieved violations data for Provider CCLC-46076 at https://families.decal.ga.gov/Provider/Details/46076
 Successfully retrieved violations data for Provider CCLC-33043 at https://families.decal.ga.gov/Provider/Details/33043
 Successfully retrieved violations data for Provider CCLC-3985 at https://families.decal.ga.gov/Provider/Details/3985
 Provider LSS-47672 redirected to https://families.decal.ga.gov/ChildCare/Detail/47672
+Successfully retrieved violations data for Provider FR-9105100152 at https://families.decal.ga.gov/Provider/Details/000009523
 Successfully retrieved violations data for Provider FR-9105100152 at https://families.decal.ga.gov/Provider/Details/000009523
 Provider EX-43474 redirected to https://families.decal.ga.gov/ChildCare/Detail/43474
 Provider EX-52796 redirected to https://families.decal.ga.gov/ChildCare/Detail/52796
@@ -1218,7 +1221,7 @@ Provider EX-51625 redirected to https://families.decal.ga.gov/ChildCare/Detail/5
 Provider EX-52037 redirected to https://families.decal.ga.gov/ChildCare/Detail/52037
 Provider EX-44750 redirected to https://families.decal.ga.gov/ChildCare/Detail/44750
 Provider EX-49430 redirected to https://families.decal.ga.gov/ChildCare/Detail/49430
-Provider EX-43719 redirected to https://families.decal.ga.gov/ChildCare/Detail/43719
+Provider EX-43719 redirected to https://families.decal.ga.gov/ChildCare/Search
 Provider EX-50911 redirected to https://families.decal.ga.gov/ChildCare/Detail/50911
 Provider EX-47531 redirected to https://families.decal.ga.gov/ChildCare/Detail/47531
 Provider EX-57589 redirected to https://families.decal.ga.gov/ChildCare/Detail/57589
@@ -1452,10 +1455,10 @@ Successfully retrieved violations data for Provider CCLC-22700 at https://famili
 Successfully retrieved violations data for Provider CCLC-25115 at https://families.decal.ga.gov/Provider/Details/25115
 Successfully retrieved violations data for Provider CCLC-30966 at https://families.decal.ga.gov/Provider/Details/30966
 Successfully retrieved violations data for Provider CCLC-1469 at https://families.decal.ga.gov/Provider/Details/1469
-Successfully retrieved violations data for Provider CCLC-1470 at https://families.decal.ga.gov/Provider/Details/1470
+Provider CCLC-1470 redirected to https://families.decal.ga.gov/ChildCare/Search
 Successfully retrieved violations data for Provider CCLC-34872 at https://families.decal.ga.gov/Provider/Details/34872
 Successfully retrieved violations data for Provider CCLC-35251 at https://families.decal.ga.gov/Provider/Details/35251
-Successfully retrieved violations data for Provider CCLC-35252 at https://families.decal.ga.gov/Provider/Details/35252
+Provider CCLC-35252 redirected to https://families.decal.ga.gov/ChildCare/Search
 Successfully retrieved violations data for Provider CCLC-19 at https://families.decal.ga.gov/Provider/Details/19
 Successfully retrieved violations data for Provider CCLC-35253 at https://families.decal.ga.gov/Provider/Details/35253
 Successfully retrieved violations data for Provider CCLC-35250 at https://families.decal.ga.gov/Provider/Details/35250
@@ -2152,6 +2155,7 @@ Successfully retrieved violations data for Provider FR-17605 at https://families
 Successfully retrieved violations data for Provider FR-46364 at https://families.decal.ga.gov/Provider/Details/46364
 Successfully retrieved violations data for Provider FR-56695 at https://families.decal.ga.gov/Provider/Details/56695
 Successfully retrieved violations data for Provider FR-000013041 at https://families.decal.ga.gov/Provider/Details/000010910
+Successfully retrieved violations data for Provider FR-000013041 at https://families.decal.ga.gov/Provider/Details/000010910
 Successfully retrieved violations data for Provider FR-62845 at https://families.decal.ga.gov/Provider/Details/62845
 Provider LSS-30731 redirected to https://families.decal.ga.gov/ChildCare/Detail/30731
 Successfully retrieved violations data for Provider CCLC-665 at https://families.decal.ga.gov/Provider/Details/665
@@ -2271,7 +2275,7 @@ Successfully retrieved violations data for Provider CCLC-12443 at https://famili
 Provider EX-57408 redirected to https://families.decal.ga.gov/ChildCare/Detail/57408
 Successfully retrieved violations data for Provider CCLC-24185 at https://families.decal.ga.gov/Provider/Details/24185
 Successfully retrieved violations data for Provider CCLC-52419 at https://families.decal.ga.gov/Provider/Details/52419
-Successfully retrieved violations data for Provider CCLC-63538 at https://families.decal.ga.gov/Provider/Details/63538
+Provider CCLC-63538 redirected to https://families.decal.ga.gov/ChildCare/Search
 Successfully retrieved violations data for Provider FR-18391 at https://families.decal.ga.gov/Provider/Details/18391
 Provider LSS-512 redirected to https://families.decal.ga.gov/ChildCare/Detail/512
 Successfully retrieved violations data for Provider FR-55371 at https://families.decal.ga.gov/Provider/Details/55371
@@ -2368,6 +2372,7 @@ Provider LSS-616 redirected to https://families.decal.ga.gov/ChildCare/Detail/61
 Successfully retrieved violations data for Provider CCLC-337 at https://families.decal.ga.gov/Provider/Details/337
 Provider EX-49114 redirected to https://families.decal.ga.gov/ChildCare/Detail/49114
 Successfully retrieved violations data for Provider CCLC-52693 at https://families.decal.ga.gov/Provider/Details/52693
+Successfully retrieved violations data for Provider CCLC-14435 at https://families.decal.ga.gov/Provider/Details/000014435
 Successfully retrieved violations data for Provider CCLC-14435 at https://families.decal.ga.gov/Provider/Details/000014435
 Provider EX-53799 redirected to https://families.decal.ga.gov/ChildCare/Detail/53799
 Successfully retrieved violations data for Provider CCLC-66440 at https://families.decal.ga.gov/Provider/Details/66440
@@ -2701,7 +2706,7 @@ Successfully retrieved violations data for Provider CCLC-36406 at https://famili
 Provider EX-41390 redirected to https://families.decal.ga.gov/ChildCare/Detail/41390
 Provider LSS-20517 redirected to https://families.decal.ga.gov/ChildCare/Detail/20517
 Provider EX-42566 redirected to https://families.decal.ga.gov/ChildCare/Detail/42566
-Provider EX-43355 redirected to https://families.decal.ga.gov/ChildCare/Detail/43355
+Provider EX-43355 redirected to https://families.decal.ga.gov/ChildCare/Search
 Provider LSS-30848 redirected to https://families.decal.ga.gov/ChildCare/Detail/30848
 Successfully retrieved violations data for Provider FR-25160 at https://families.decal.ga.gov/Provider/Details/25160
 Provider LSS-1290 redirected to https://families.decal.ga.gov/ChildCare/Detail/1290
@@ -2720,6 +2725,7 @@ Successfully retrieved violations data for Provider CCLC-2130 at https://familie
 Successfully retrieved violations data for Provider CCLC-3245 at https://families.decal.ga.gov/Provider/Details/3245
 Successfully retrieved violations data for Provider CCLC-29130 at https://families.decal.ga.gov/Provider/Details/29130
 Successfully retrieved violations data for Provider CCLC-26100 at https://families.decal.ga.gov/Provider/Details/26100
+Successfully retrieved violations data for Provider CCLC-2393 at https://families.decal.ga.gov/Provider/Details/2393
 Successfully retrieved violations data for Provider CCLC-2393 at https://families.decal.ga.gov/Provider/Details/2393
 Provider EX-43758 redirected to https://families.decal.ga.gov/ChildCare/Detail/43758
 Successfully retrieved violations data for Provider CCLC-47673 at https://families.decal.ga.gov/Provider/Details/47673
@@ -2755,6 +2761,7 @@ Provider LSS-23236 redirected to https://families.decal.ga.gov/ChildCare/Detail/
 Provider LSS-16641 redirected to https://families.decal.ga.gov/ChildCare/Detail/16641
 Provider LSS-17962 redirected to https://families.decal.ga.gov/ChildCare/Detail/17962
 Successfully retrieved violations data for Provider FR-52807 at https://families.decal.ga.gov/Provider/Details/52807
+Successfully retrieved violations data for Provider CCLC-1006 at https://families.decal.ga.gov/Provider/Details/1006
 Successfully retrieved violations data for Provider CCLC-1006 at https://families.decal.ga.gov/Provider/Details/1006
 Successfully retrieved violations data for Provider CCLC-51777 at https://families.decal.ga.gov/Provider/Details/51777
 Provider LSS-32489 redirected to https://families.decal.ga.gov/ChildCare/Detail/32489
@@ -2877,6 +2884,7 @@ Provider EX-50585 redirected to https://families.decal.ga.gov/ChildCare/Detail/5
 Successfully retrieved violations data for Provider FR-49927 at https://families.decal.ga.gov/Provider/Details/49927
 Successfully retrieved violations data for Provider CCLC-29175 at https://families.decal.ga.gov/Provider/Details/29175
 Successfully retrieved violations data for Provider CCLC-1006 at https://families.decal.ga.gov/Provider/Details/000001006
+Successfully retrieved violations data for Provider CCLC-1006 at https://families.decal.ga.gov/Provider/Details/000001006
 Successfully retrieved violations data for Provider CCLC-14174 at https://families.decal.ga.gov/Provider/Details/14174
 Provider EX-63215 redirected to https://families.decal.ga.gov/ChildCare/Detail/63215
 Provider EX-50884 redirected to https://families.decal.ga.gov/ChildCare/Detail/50884
@@ -2928,6 +2936,7 @@ Provider LSS-34761 redirected to https://families.decal.ga.gov/ChildCare/Detail/
 Provider EX-48602 redirected to https://families.decal.ga.gov/ChildCare/Detail/48602
 Successfully retrieved violations data for Provider FR-53004 at https://families.decal.ga.gov/Provider/Details/53004
 Successfully retrieved violations data for Provider FR-48756 at https://families.decal.ga.gov/Provider/Details/48756
+Successfully retrieved violations data for Provider CCLC-3034 at https://families.decal.ga.gov/Provider/Details/3034
 Successfully retrieved violations data for Provider CCLC-3034 at https://families.decal.ga.gov/Provider/Details/3034
 Provider EX-45536 redirected to https://families.decal.ga.gov/ChildCare/Detail/45536
 Provider EX-54853 redirected to https://families.decal.ga.gov/ChildCare/Detail/54853
@@ -3107,7 +3116,7 @@ Provider LSS-247 redirected to https://families.decal.ga.gov/ChildCare/Detail/24
 Successfully retrieved violations data for Provider CCLC-62390 at https://families.decal.ga.gov/Provider/Details/62390
 Successfully retrieved violations data for Provider CCLC-62491 at https://families.decal.ga.gov/Provider/Details/62491
 Successfully retrieved violations data for Provider CCLC-52670 at https://families.decal.ga.gov/Provider/Details/52670
-Provider EX-44771 redirected to https://families.decal.ga.gov/ChildCare/Detail/44771
+Provider EX-44771 redirected to https://families.decal.ga.gov/ChildCare/Search
 Successfully retrieved violations data for Provider CCLC-50324 at https://families.decal.ga.gov/Provider/Details/50324
 Successfully retrieved violations data for Provider CCLC-57224 at https://families.decal.ga.gov/Provider/Details/57224
 Successfully retrieved violations data for Provider CCLC-50290 at https://families.decal.ga.gov/Provider/Details/50290
@@ -3165,11 +3174,13 @@ Provider EX-48770 redirected to https://families.decal.ga.gov/ChildCare/Detail/4
 Successfully retrieved violations data for Provider CCLC-3177 at https://families.decal.ga.gov/Provider/Details/3177
 Successfully retrieved violations data for Provider CCLC-1106 at https://families.decal.ga.gov/Provider/Details/1106
 Successfully retrieved violations data for Provider CCLC-2960 at https://families.decal.ga.gov/Provider/Details/2960
+Successfully retrieved violations data for Provider CCLC-2960 at https://families.decal.ga.gov/Provider/Details/2960
 Successfully retrieved violations data for Provider FR-58756 at https://families.decal.ga.gov/Provider/Details/58756
 Provider LSS-1221 redirected to https://families.decal.ga.gov/ChildCare/Detail/1221
 Provider EX-50931 redirected to https://families.decal.ga.gov/ChildCare/Detail/50931
 Successfully retrieved violations data for Provider CCLC-31978 at https://families.decal.ga.gov/Provider/Details/31978
 Successfully retrieved violations data for Provider CCLC-58057 at https://families.decal.ga.gov/Provider/Details/58057
+Successfully retrieved violations data for Provider CCLC-548 at https://families.decal.ga.gov/Provider/Details/548
 Successfully retrieved violations data for Provider CCLC-548 at https://families.decal.ga.gov/Provider/Details/548
 Successfully retrieved violations data for Provider CCLC-28424 at https://families.decal.ga.gov/Provider/Details/28424
 Provider EX-41562 redirected to https://families.decal.ga.gov/ChildCare/Detail/41562
@@ -3184,6 +3195,7 @@ Successfully retrieved violations data for Provider CCLC-38259 at https://famili
 Successfully retrieved violations data for Provider CCLC-1109 at https://families.decal.ga.gov/Provider/Details/1109
 Provider EX-45373 redirected to https://families.decal.ga.gov/ChildCare/Detail/45373
 Successfully retrieved violations data for Provider FR-64043 at https://families.decal.ga.gov/Provider/Details/64043
+Successfully retrieved violations data for Provider CCLC-310 at https://families.decal.ga.gov/Provider/Details/000000310
 Successfully retrieved violations data for Provider CCLC-310 at https://families.decal.ga.gov/Provider/Details/000000310
 Successfully retrieved violations data for Provider FR-27198 at https://families.decal.ga.gov/Provider/Details/27198
 Successfully retrieved violations data for Provider CCLC-57811 at https://families.decal.ga.gov/Provider/Details/57811
@@ -3305,7 +3317,9 @@ Provider EX-44225 redirected to https://families.decal.ga.gov/ChildCare/Detail/4
 Successfully retrieved violations data for Provider FR-33671 at https://families.decal.ga.gov/Provider/Details/33671
 Successfully retrieved violations data for Provider FR-66110 at https://families.decal.ga.gov/Provider/Details/66110
 Successfully retrieved violations data for Provider CCLC-2874 at https://families.decal.ga.gov/Provider/Details/000002874
+Successfully retrieved violations data for Provider CCLC-2874 at https://families.decal.ga.gov/Provider/Details/000002874
 Successfully retrieved violations data for Provider CCLC-11430 at https://families.decal.ga.gov/Provider/Details/11430
+Successfully retrieved violations data for Provider FR-000007146 at https://families.decal.ga.gov/Provider/Details/000007390
 Successfully retrieved violations data for Provider FR-000007146 at https://families.decal.ga.gov/Provider/Details/000007390
 Provider LSS-171 redirected to https://families.decal.ga.gov/ChildCare/Detail/171
 Successfully retrieved violations data for Provider CCLC-48812 at https://families.decal.ga.gov/Provider/Details/48812
@@ -3379,6 +3393,7 @@ Provider EX-45258 redirected to https://families.decal.ga.gov/ChildCare/Detail/4
 Successfully retrieved violations data for Provider CCLC-1906 at https://families.decal.ga.gov/Provider/Details/1906
 Provider EX-43619 redirected to https://families.decal.ga.gov/ChildCare/Detail/43619
 Successfully retrieved violations data for Provider FR-000002996 at https://families.decal.ga.gov/Provider/Details/000007593
+Successfully retrieved violations data for Provider FR-000002996 at https://families.decal.ga.gov/Provider/Details/000007593
 Provider EX-49597 redirected to https://families.decal.ga.gov/ChildCare/Detail/49597
 Successfully retrieved violations data for Provider CCLC-3602 at https://families.decal.ga.gov/Provider/Details/3602
 Provider LSS-49795 redirected to https://families.decal.ga.gov/ChildCare/Detail/49795
@@ -3442,7 +3457,7 @@ Successfully retrieved violations data for Provider CCLC-35956 at https://famili
 Provider EX-47548 redirected to https://families.decal.ga.gov/ChildCare/Detail/47548
 Provider EX-47550 redirected to https://families.decal.ga.gov/ChildCare/Detail/47550
 Provider EX-47551 redirected to https://families.decal.ga.gov/ChildCare/Detail/47551
-Provider EX-47552 redirected to https://families.decal.ga.gov/ChildCare/Detail/47552
+Provider EX-47552 redirected to https://families.decal.ga.gov/ChildCare/Search
 Provider EX-47534 redirected to https://families.decal.ga.gov/ChildCare/Detail/47534
 Provider EX-49185 redirected to https://families.decal.ga.gov/ChildCare/Detail/49185
 Provider LSS-352 redirected to https://families.decal.ga.gov/ChildCare/Detail/352
@@ -3599,13 +3614,13 @@ Provider EX-47842 redirected to https://families.decal.ga.gov/ChildCare/Detail/4
 Provider EX-47843 redirected to https://families.decal.ga.gov/ChildCare/Detail/47843
 Provider EX-47844 redirected to https://families.decal.ga.gov/ChildCare/Detail/47844
 Provider EX-47845 redirected to https://families.decal.ga.gov/ChildCare/Detail/47845
-Provider EX-47857 redirected to https://families.decal.ga.gov/ChildCare/Detail/47857
+Provider EX-47857 redirected to https://families.decal.ga.gov/ChildCare/Search
 Provider EX-47846 redirected to https://families.decal.ga.gov/ChildCare/Detail/47846
 Provider EX-47847 redirected to https://families.decal.ga.gov/ChildCare/Detail/47847
 Provider EX-47848 redirected to https://families.decal.ga.gov/ChildCare/Detail/47848
-Provider EX-47858 redirected to https://families.decal.ga.gov/ChildCare/Detail/47858
+Provider EX-47858 redirected to https://families.decal.ga.gov/ChildCare/Search
 Provider EX-47849 redirected to https://families.decal.ga.gov/ChildCare/Detail/47849
-Provider EX-47859 redirected to https://families.decal.ga.gov/ChildCare/Detail/47859
+Provider EX-47859 redirected to https://families.decal.ga.gov/ChildCare/Search
 Provider EX-47850 redirected to https://families.decal.ga.gov/ChildCare/Detail/47850
 Provider EX-47814 redirected to https://families.decal.ga.gov/ChildCare/Detail/47814
 Provider EX-52862 redirected to https://families.decal.ga.gov/ChildCare/Detail/52862
@@ -3759,6 +3774,7 @@ Provider LSS-36153 redirected to https://families.decal.ga.gov/ChildCare/Detail/
 Successfully retrieved violations data for Provider CCLC-35528 at https://families.decal.ga.gov/Provider/Details/35528
 Provider LSS-427 redirected to https://families.decal.ga.gov/ChildCare/Detail/427
 Successfully retrieved violations data for Provider FR-000007818 at https://families.decal.ga.gov/Provider/Details/000005360
+Successfully retrieved violations data for Provider FR-000007818 at https://families.decal.ga.gov/Provider/Details/000005360
 Successfully retrieved violations data for Provider FR-63153 at https://families.decal.ga.gov/Provider/Details/63153
 Successfully retrieved violations data for Provider FR-32259 at https://families.decal.ga.gov/Provider/Details/32259
 Successfully retrieved violations data for Provider FR-54046 at https://families.decal.ga.gov/Provider/Details/54046
@@ -3791,7 +3807,7 @@ Provider EX-56587 redirected to https://families.decal.ga.gov/ChildCare/Detail/5
 Successfully retrieved violations data for Provider CCLC-2351 at https://families.decal.ga.gov/Provider/Details/2351
 Provider LSS-59 redirected to https://families.decal.ga.gov/ChildCare/Detail/59
 Successfully retrieved violations data for Provider CCLC-33761 at https://families.decal.ga.gov/Provider/Details/33761
-Provider GAHS-49876 redirected to https://families.decal.ga.gov/ChildCare/Detail/49876
+Provider GAHS-49876 redirected to https://families.decal.ga.gov/ChildCare/Search
 Successfully retrieved violations data for Provider CCLC-54677 at https://families.decal.ga.gov/Provider/Details/54677
 Provider EX-43650 redirected to https://families.decal.ga.gov/ChildCare/Detail/43650
 Provider LSS-734 redirected to https://families.decal.ga.gov/ChildCare/Detail/734
@@ -3823,6 +3839,7 @@ Provider EX-40503 redirected to https://families.decal.ga.gov/ChildCare/Detail/4
 Provider LSS-30741 redirected to https://families.decal.ga.gov/ChildCare/Detail/30741
 Successfully retrieved violations data for Provider CCLC-50629 at https://families.decal.ga.gov/Provider/Details/50629
 Successfully retrieved violations data for Provider FR-62511 at https://families.decal.ga.gov/Provider/Details/62511
+Successfully retrieved violations data for Provider FR-9900103321 at https://families.decal.ga.gov/Provider/Details/000012143
 Successfully retrieved violations data for Provider FR-9900103321 at https://families.decal.ga.gov/Provider/Details/000012143
 Successfully retrieved violations data for Provider CCLC-35767 at https://families.decal.ga.gov/Provider/Details/35767
 Provider EX-40847 redirected to https://families.decal.ga.gov/ChildCare/Detail/40847
@@ -4081,6 +4098,7 @@ Successfully retrieved violations data for Provider CCLC-47794 at https://famili
 Successfully retrieved violations data for Provider CCLC-2505 at https://families.decal.ga.gov/Provider/Details/2505
 Successfully retrieved violations data for Provider CCLC-18302 at https://families.decal.ga.gov/Provider/Details/18302
 Successfully retrieved violations data for Provider CCLC-49079 at https://families.decal.ga.gov/Provider/Details/49079
+Successfully retrieved violations data for Provider CCLC-3459 at https://families.decal.ga.gov/Provider/Details/3459
 Successfully retrieved violations data for Provider CCLC-3459 at https://families.decal.ga.gov/Provider/Details/3459
 Successfully retrieved violations data for Provider CCLC-988 at https://families.decal.ga.gov/Provider/Details/988
 Successfully retrieved violations data for Provider CCLC-25727 at https://families.decal.ga.gov/Provider/Details/25727
@@ -4404,7 +4422,7 @@ Provider LSS-971 redirected to https://families.decal.ga.gov/ChildCare/Detail/97
 Provider LSS-1573 redirected to https://families.decal.ga.gov/ChildCare/Detail/1573
 Successfully retrieved violations data for Provider FR-22829 at https://families.decal.ga.gov/Provider/Details/22829
 Successfully retrieved violations data for Provider FR-66232 at https://families.decal.ga.gov/Provider/Details/66232
-Successfully retrieved violations data for Provider FR-51922 at https://families.decal.ga.gov/Provider/Details/51922
+Provider FR-51922 redirected to https://families.decal.ga.gov/ChildCare/Search
 Successfully retrieved violations data for Provider CCLC-55115 at https://families.decal.ga.gov/Provider/Details/55115
 Successfully retrieved violations data for Provider CCLC-26968 at https://families.decal.ga.gov/Provider/Details/26968
 Successfully retrieved violations data for Provider CCLC-63326 at https://families.decal.ga.gov/Provider/Details/63326
@@ -4754,6 +4772,7 @@ Provider DOD-542 redirected to https://families.decal.ga.gov/ChildCare/Detail/54
 Provider EX-48901 redirected to https://families.decal.ga.gov/ChildCare/Detail/48901
 Provider LSS-543 redirected to https://families.decal.ga.gov/ChildCare/Detail/543
 Successfully retrieved violations data for Provider CCLC-1794 at https://families.decal.ga.gov/Provider/Details/000001794
+Successfully retrieved violations data for Provider CCLC-1794 at https://families.decal.ga.gov/Provider/Details/000001794
 Provider LSS-30745 redirected to https://families.decal.ga.gov/ChildCare/Detail/30745
 Provider EX-52741 redirected to https://families.decal.ga.gov/ChildCare/Detail/52741
 Provider LSS-49456 redirected to https://families.decal.ga.gov/ChildCare/Detail/49456
@@ -4773,6 +4792,7 @@ Provider LSS-63483 redirected to https://families.decal.ga.gov/ChildCare/Detail/
 Provider LSS-1035 redirected to https://families.decal.ga.gov/ChildCare/Detail/1035
 Provider EX-42911 redirected to https://families.decal.ga.gov/ChildCare/Detail/42911
 Provider EX-42912 redirected to https://families.decal.ga.gov/ChildCare/Detail/42912
+Successfully retrieved violations data for Provider FR-9900102438 at https://families.decal.ga.gov/Provider/Details/000004562
 Successfully retrieved violations data for Provider FR-9900102438 at https://families.decal.ga.gov/Provider/Details/000004562
 Successfully retrieved violations data for Provider FR-62627 at https://families.decal.ga.gov/Provider/Details/62627
 Provider EX-58019 redirected to https://families.decal.ga.gov/ChildCare/Detail/58019
@@ -4829,6 +4849,7 @@ Successfully retrieved violations data for Provider CCLC-57900 at https://famili
 Successfully retrieved violations data for Provider CCLC-62122 at https://families.decal.ga.gov/Provider/Details/62122
 Provider LSS-1309 redirected to https://families.decal.ga.gov/ChildCare/Detail/1309
 Successfully retrieved violations data for Provider CCLC-548 at https://families.decal.ga.gov/Provider/Details/000000548
+Successfully retrieved violations data for Provider CCLC-548 at https://families.decal.ga.gov/Provider/Details/000000548
 Successfully retrieved violations data for Provider FR-26589 at https://families.decal.ga.gov/Provider/Details/26589
 Successfully retrieved violations data for Provider FR-53630 at https://families.decal.ga.gov/Provider/Details/53630
 Provider EX-47587 redirected to https://families.decal.ga.gov/ChildCare/Detail/47587
@@ -4843,6 +4864,7 @@ Successfully retrieved violations data for Provider CCLC-38873 at https://famili
 Successfully retrieved violations data for Provider CCLC-17661 at https://families.decal.ga.gov/Provider/Details/17661
 Successfully retrieved violations data for Provider CCLC-17660 at https://families.decal.ga.gov/Provider/Details/17660
 Successfully retrieved violations data for Provider CCLC-17663 at https://families.decal.ga.gov/Provider/Details/17663
+Successfully retrieved violations data for Provider FR-0000370007 at https://families.decal.ga.gov/Provider/Details/000006852
 Successfully retrieved violations data for Provider FR-0000370007 at https://families.decal.ga.gov/Provider/Details/000006852
 Provider LSS-50 redirected to https://families.decal.ga.gov/ChildCare/Detail/50
 Successfully retrieved violations data for Provider CCLC-1903 at https://families.decal.ga.gov/Provider/Details/1903
@@ -5000,6 +5022,7 @@ Successfully retrieved violations data for Provider CCLC-39108 at https://famili
 Provider LSS-1575 redirected to https://families.decal.ga.gov/ChildCare/Detail/1575
 Successfully retrieved violations data for Provider FR-25584 at https://families.decal.ga.gov/Provider/Details/25584
 Successfully retrieved violations data for Provider FR-000002612 at https://families.decal.ga.gov/Provider/Details/000005248
+Successfully retrieved violations data for Provider FR-000002612 at https://families.decal.ga.gov/Provider/Details/000005248
 Successfully retrieved violations data for Provider CCLC-48273 at https://families.decal.ga.gov/Provider/Details/48273
 Provider EX-53383 redirected to https://families.decal.ga.gov/ChildCare/Detail/53383
 Successfully retrieved violations data for Provider FR-50062 at https://families.decal.ga.gov/Provider/Details/50062
@@ -5105,6 +5128,7 @@ Successfully retrieved violations data for Provider FR-50267 at https://families
 Successfully retrieved violations data for Provider CCLC-63020 at https://families.decal.ga.gov/Provider/Details/63020
 Provider EX-53546 redirected to https://families.decal.ga.gov/ChildCare/Detail/53546
 Provider EX-47968 redirected to https://families.decal.ga.gov/ChildCare/Detail/47968
+Successfully retrieved violations data for Provider FR-9105100298 at https://families.decal.ga.gov/Provider/Details/000010008
 Successfully retrieved violations data for Provider FR-9105100298 at https://families.decal.ga.gov/Provider/Details/000010008
 Successfully retrieved violations data for Provider FR-51994 at https://families.decal.ga.gov/Provider/Details/51994
 Provider LSS-1746 redirected to https://families.decal.ga.gov/ChildCare/Detail/1746
@@ -5279,6 +5303,7 @@ Provider LSS-17959 redirected to https://families.decal.ga.gov/ChildCare/Detail/
 Provider LSS-1091 redirected to https://families.decal.ga.gov/ChildCare/Detail/1091
 Provider EX-54477 redirected to https://families.decal.ga.gov/ChildCare/Detail/54477
 Successfully retrieved violations data for Provider CCLC-2960 at https://families.decal.ga.gov/Provider/Details/000002960
+Successfully retrieved violations data for Provider CCLC-2960 at https://families.decal.ga.gov/Provider/Details/000002960
 Provider LSS-1170 redirected to https://families.decal.ga.gov/ChildCare/Detail/1170
 Successfully retrieved violations data for Provider CCLC-3288 at https://families.decal.ga.gov/Provider/Details/3288
 Successfully retrieved violations data for Provider FR-49968 at https://families.decal.ga.gov/Provider/Details/49968
@@ -5452,7 +5477,7 @@ Successfully retrieved violations data for Provider FR-27831 at https://families
 Successfully retrieved violations data for Provider CCLC-39601 at https://families.decal.ga.gov/Provider/Details/39601
 Successfully retrieved violations data for Provider CCLC-48547 at https://families.decal.ga.gov/Provider/Details/48547
 Provider EX-42058 redirected to https://families.decal.ga.gov/ChildCare/Detail/42058
-Provider GAHS-49743 redirected to https://families.decal.ga.gov/ChildCare/Detail/49743
+Provider GAHS-49743 redirected to https://families.decal.ga.gov/ChildCare/Search
 Successfully retrieved violations data for Provider CCLC-39693 at https://families.decal.ga.gov/Provider/Details/39693
 Successfully retrieved violations data for Provider CCLC-49432 at https://families.decal.ga.gov/Provider/Details/49432
 Successfully retrieved violations data for Provider FR-57946 at https://families.decal.ga.gov/Provider/Details/57946
@@ -5476,9 +5501,11 @@ Successfully retrieved violations data for Provider CCLC-53452 at https://famili
 Provider EX-63317 redirected to https://families.decal.ga.gov/ChildCare/Detail/63317
 Successfully retrieved violations data for Provider CCLC-39137 at https://families.decal.ga.gov/Provider/Details/39137
 Successfully retrieved violations data for Provider CCLC-1941 at https://families.decal.ga.gov/Provider/Details/1941
+Successfully retrieved violations data for Provider CCLC-1941 at https://families.decal.ga.gov/Provider/Details/1941
 Successfully retrieved violations data for Provider CCLC-62102 at https://families.decal.ga.gov/Provider/Details/62102
 Successfully retrieved violations data for Provider FR-57581 at https://families.decal.ga.gov/Provider/Details/57581
 Successfully retrieved violations data for Provider CCLC-37774 at https://families.decal.ga.gov/Provider/Details/37774
+Successfully retrieved violations data for Provider CCLC-288 at https://families.decal.ga.gov/Provider/Details/288
 Successfully retrieved violations data for Provider CCLC-288 at https://families.decal.ga.gov/Provider/Details/288
 Successfully retrieved violations data for Provider CCLC-3617 at https://families.decal.ga.gov/Provider/Details/3617
 Successfully retrieved violations data for Provider CCLC-62359 at https://families.decal.ga.gov/Provider/Details/62359
@@ -5507,6 +5534,8 @@ Provider LSS-229 redirected to https://families.decal.ga.gov/ChildCare/Detail/22
 Provider EX-56528 redirected to https://families.decal.ga.gov/ChildCare/Detail/56528
 Provider LSS-1323 redirected to https://families.decal.ga.gov/ChildCare/Detail/1323
 Successfully retrieved violations data for Provider CCLC-3973 at https://families.decal.ga.gov/Provider/Details/000003973
+Successfully retrieved violations data for Provider CCLC-3973 at https://families.decal.ga.gov/Provider/Details/000003973
+Successfully retrieved violations data for Provider CCLC-2393 at https://families.decal.ga.gov/Provider/Details/000002393
 Successfully retrieved violations data for Provider CCLC-2393 at https://families.decal.ga.gov/Provider/Details/000002393
 Provider EX-44769 redirected to https://families.decal.ga.gov/ChildCare/Detail/44769
 Provider LSS-1592 redirected to https://families.decal.ga.gov/ChildCare/Detail/1592
@@ -5532,6 +5561,7 @@ Successfully retrieved violations data for Provider CCLC-35491 at https://famili
 Provider EX-49661 redirected to https://families.decal.ga.gov/ChildCare/Detail/49661
 Successfully retrieved violations data for Provider CCLC-65366 at https://families.decal.ga.gov/Provider/Details/65366
 Successfully retrieved violations data for Provider CCLC-2227 at https://families.decal.ga.gov/Provider/Details/2227
+Successfully retrieved violations data for Provider FR-000002265 at https://families.decal.ga.gov/Provider/Details/000006407
 Successfully retrieved violations data for Provider FR-000002265 at https://families.decal.ga.gov/Provider/Details/000006407
 Successfully retrieved violations data for Provider CCLC-2288 at https://families.decal.ga.gov/Provider/Details/2288
 Provider EX-63647 redirected to https://families.decal.ga.gov/ChildCare/Detail/63647
@@ -5590,6 +5620,7 @@ Successfully retrieved violations data for Provider CCLC-53496 at https://famili
 Successfully retrieved violations data for Provider CCLC-48167 at https://families.decal.ga.gov/Provider/Details/48167
 Successfully retrieved violations data for Provider CCLC-62063 at https://families.decal.ga.gov/Provider/Details/62063
 Successfully retrieved violations data for Provider CCLC-310 at https://families.decal.ga.gov/Provider/Details/310
+Successfully retrieved violations data for Provider CCLC-310 at https://families.decal.ga.gov/Provider/Details/310
 Successfully retrieved violations data for Provider CCLC-17654 at https://families.decal.ga.gov/Provider/Details/17654
 Successfully retrieved violations data for Provider CCLC-38620 at https://families.decal.ga.gov/Provider/Details/38620
 Successfully retrieved violations data for Provider CCLC-62428 at https://families.decal.ga.gov/Provider/Details/62428
@@ -5620,7 +5651,7 @@ Successfully retrieved violations data for Provider CCLC-3389 at https://familie
 Successfully retrieved violations data for Provider CCLC-14885 at https://families.decal.ga.gov/Provider/Details/14885
 Successfully retrieved violations data for Provider CCLC-24911 at https://families.decal.ga.gov/Provider/Details/24911
 Successfully retrieved violations data for Provider CCLC-13461 at https://families.decal.ga.gov/Provider/Details/13461
-Successfully retrieved violations data for Provider CCLC-13448 at https://families.decal.ga.gov/Provider/Details/13448
+Provider CCLC-13448 redirected to https://families.decal.ga.gov/ChildCare/Search
 Successfully retrieved violations data for Provider CCLC-33877 at https://families.decal.ga.gov/Provider/Details/33877
 Successfully retrieved violations data for Provider CCLC-33771 at https://families.decal.ga.gov/Provider/Details/33771
 Successfully retrieved violations data for Provider CCLC-17721 at https://families.decal.ga.gov/Provider/Details/17721
@@ -5966,6 +5997,7 @@ Successfully retrieved violations data for Provider CCLC-63567 at https://famili
 Provider LSS-28463 redirected to https://families.decal.ga.gov/ChildCare/Detail/28463
 Provider LSS-1328 redirected to https://families.decal.ga.gov/ChildCare/Detail/1328
 Successfully retrieved violations data for Provider CCLC-2874 at https://families.decal.ga.gov/Provider/Details/2874
+Successfully retrieved violations data for Provider CCLC-2874 at https://families.decal.ga.gov/Provider/Details/2874
 Provider EX-49438 redirected to https://families.decal.ga.gov/ChildCare/Detail/49438
 Successfully retrieved violations data for Provider CCLC-54843 at https://families.decal.ga.gov/Provider/Details/54843
 Successfully retrieved violations data for Provider CCLC-39246 at https://families.decal.ga.gov/Provider/Details/39246
@@ -6178,6 +6210,7 @@ Successfully retrieved violations data for Provider FR-57528 at https://families
 Successfully retrieved violations data for Provider CCLC-57352 at https://families.decal.ga.gov/Provider/Details/57352
 Successfully retrieved violations data for Provider CCLC-49742 at https://families.decal.ga.gov/Provider/Details/49742
 Provider LSS-25675 redirected to https://families.decal.ga.gov/ChildCare/Detail/25675
+Successfully retrieved violations data for Provider CCLC-1941 at https://families.decal.ga.gov/Provider/Details/000001941
 Successfully retrieved violations data for Provider CCLC-1941 at https://families.decal.ga.gov/Provider/Details/000001941
 Successfully retrieved violations data for Provider FR-57627 at https://families.decal.ga.gov/Provider/Details/57627
 Provider EX-51806 redirected to https://families.decal.ga.gov/ChildCare/Detail/51806
@@ -6591,7 +6624,7 @@ Provider LSS-28756 redirected to https://families.decal.ga.gov/ChildCare/Detail/
 Provider EX-52149 redirected to https://families.decal.ga.gov/ChildCare/Detail/52149
 Provider LSS-481 redirected to https://families.decal.ga.gov/ChildCare/Detail/481
 Provider EX-51110 redirected to https://families.decal.ga.gov/ChildCare/Detail/51110
-Provider EX-43435 redirected to https://families.decal.ga.gov/ChildCare/Detail/43435
+Provider EX-43435 redirected to https://families.decal.ga.gov/ChildCare/Search
 Provider EX-51111 redirected to https://families.decal.ga.gov/ChildCare/Detail/51111
 Successfully retrieved violations data for Provider CCLC-749 at https://families.decal.ga.gov/Provider/Details/749
 Successfully retrieved violations data for Provider CCLC-55001 at https://families.decal.ga.gov/Provider/Details/55001
@@ -6663,7 +6696,7 @@ Successfully retrieved violations data for Provider CCLC-49916 at https://famili
 Successfully retrieved violations data for Provider CCLC-33284 at https://families.decal.ga.gov/Provider/Details/33284
 Successfully retrieved violations data for Provider CCLC-51574 at https://families.decal.ga.gov/Provider/Details/51574
 Successfully retrieved violations data for Provider CCLC-33841 at https://families.decal.ga.gov/Provider/Details/33841
-Successfully retrieved violations data for Provider CCLC-47363 at https://families.decal.ga.gov/Provider/Details/47363
+Provider CCLC-47363 redirected to https://families.decal.ga.gov/ChildCare/Search
 Successfully retrieved violations data for Provider CCLC-39820 at https://families.decal.ga.gov/Provider/Details/39820
 Successfully retrieved violations data for Provider CCLC-39896 at https://families.decal.ga.gov/Provider/Details/39896
 Successfully retrieved violations data for Provider CCLC-46297 at https://families.decal.ga.gov/Provider/Details/46297
@@ -6678,6 +6711,7 @@ Successfully retrieved violations data for Provider CCLC-10777 at https://famili
 Successfully retrieved violations data for Provider CCLC-3947 at https://families.decal.ga.gov/Provider/Details/3947
 Successfully retrieved violations data for Provider CCLC-47205 at https://families.decal.ga.gov/Provider/Details/47205
 Provider EX-51275 redirected to https://families.decal.ga.gov/ChildCare/Detail/51275
+Successfully retrieved violations data for Provider CCLC-14435 at https://families.decal.ga.gov/Provider/Details/14435
 Successfully retrieved violations data for Provider CCLC-14435 at https://families.decal.ga.gov/Provider/Details/14435
 Provider EX-53535 redirected to https://families.decal.ga.gov/ChildCare/Detail/53535
 Provider EX-54674 redirected to https://families.decal.ga.gov/ChildCare/Detail/54674
@@ -6813,7 +6847,7 @@ Successfully retrieved violations data for Provider CCLC-45812 at https://famili
 Provider EX-57833 redirected to https://families.decal.ga.gov/ChildCare/Detail/57833
 Successfully retrieved violations data for Provider CCLC-55057 at https://families.decal.ga.gov/Provider/Details/55057
 Provider EX-53273 redirected to https://families.decal.ga.gov/ChildCare/Detail/53273
-Successfully retrieved violations data for Provider CCLC-50130 at https://families.decal.ga.gov/Provider/Details/50130
+Provider CCLC-50130 redirected to https://families.decal.ga.gov/ChildCare/Search
 Provider EX-58566 redirected to https://families.decal.ga.gov/ChildCare/Detail/58566
 Successfully retrieved violations data for Provider CCLC-49847 at https://families.decal.ga.gov/Provider/Details/49847
 Provider EX-51530 redirected to https://families.decal.ga.gov/ChildCare/Detail/51530
@@ -6997,7 +7031,8 @@ Successfully retrieved violations data for Provider CCLC-66312 at https://famili
 Successfully retrieved violations data for Provider CCLC-32938 at https://families.decal.ga.gov/Provider/Details/32938
 Successfully retrieved violations data for Provider CCLC-65561 at https://families.decal.ga.gov/Provider/Details/65561
 Successfully retrieved violations data for Provider CCLC-39280 at https://families.decal.ga.gov/Provider/Details/39280
-Successfully retrieved violations data for Provider CCLC-63308 at https://families.decal.ga.gov/Provider/Details/63308
+Provider CCLC-63308 redirected to https://families.decal.ga.gov/ChildCare/Search
+Successfully retrieved violations data for Provider CCLC-3973 at https://families.decal.ga.gov/Provider/Details/3973
 Successfully retrieved violations data for Provider CCLC-3973 at https://families.decal.ga.gov/Provider/Details/3973
 Successfully retrieved violations data for Provider CCLC-2244 at https://families.decal.ga.gov/Provider/Details/2244
 Successfully retrieved violations data for Provider FR-62836 at https://families.decal.ga.gov/Provider/Details/62836
@@ -7019,7 +7054,7 @@ Provider EX-41547 redirected to https://families.decal.ga.gov/ChildCare/Detail/4
 Provider LSS-181 redirected to https://families.decal.ga.gov/ChildCare/Detail/181
 Provider EX-58418 redirected to https://families.decal.ga.gov/ChildCare/Detail/58418
 Successfully retrieved violations data for Provider CCLC-23653 at https://families.decal.ga.gov/Provider/Details/23653
-Provider GAHS-49776 redirected to https://families.decal.ga.gov/ChildCare/Detail/49776
+Provider GAHS-49776 redirected to https://families.decal.ga.gov/ChildCare/Search
 Successfully retrieved violations data for Provider CCLC-61894 at https://families.decal.ga.gov/Provider/Details/61894
 Successfully retrieved violations data for Provider CCLC-55227 at https://families.decal.ga.gov/Provider/Details/55227
 Successfully retrieved violations data for Provider CCLC-48802 at https://families.decal.ga.gov/Provider/Details/48802
@@ -7140,6 +7175,7 @@ Provider EX-50375 redirected to https://families.decal.ga.gov/ChildCare/Detail/5
 Provider EX-62080 redirected to https://families.decal.ga.gov/ChildCare/Detail/62080
 Provider EX-48287 redirected to https://families.decal.ga.gov/ChildCare/Detail/48287
 Successfully retrieved violations data for Provider CCLC-3034 at https://families.decal.ga.gov/Provider/Details/000003034
+Successfully retrieved violations data for Provider CCLC-3034 at https://families.decal.ga.gov/Provider/Details/000003034
 Successfully retrieved violations data for Provider FR-64268 at https://families.decal.ga.gov/Provider/Details/64268
 Successfully retrieved violations data for Provider CCLC-62808 at https://families.decal.ga.gov/Provider/Details/62808
 Provider LSS-25633 redirected to https://families.decal.ga.gov/ChildCare/Detail/25633
@@ -7208,7 +7244,7 @@ Provider LSS-40 redirected to https://families.decal.ga.gov/ChildCare/Detail/40
 Successfully retrieved violations data for Provider FR-20633 at https://families.decal.ga.gov/Provider/Details/20633
 Provider EX-45095 redirected to https://families.decal.ga.gov/ChildCare/Detail/45095
 Successfully retrieved violations data for Provider FR-25876 at https://families.decal.ga.gov/Provider/Details/25876
-Provider EX-55068 redirected to https://families.decal.ga.gov/ChildCare/Detail/55068
+Provider EX-55068 redirected to https://families.decal.ga.gov/ChildCare/Search
 Successfully retrieved violations data for Provider FR-22373 at https://families.decal.ga.gov/Provider/Details/22373
 Provider LSS-39829 redirected to https://families.decal.ga.gov/ChildCare/Detail/39829
 Provider EX-52737 redirected to https://families.decal.ga.gov/ChildCare/Detail/52737
@@ -7254,6 +7290,7 @@ Successfully retrieved violations data for Provider CCLC-36668 at https://famili
 Provider GAHS-35501 redirected to https://families.decal.ga.gov/ChildCare/Detail/35501
 Provider EX-56767 redirected to https://families.decal.ga.gov/ChildCare/Detail/56767
 Successfully retrieved violations data for Provider FR-62702 at https://families.decal.ga.gov/Provider/Details/62702
+Successfully retrieved violations data for Provider CCLC-288 at https://families.decal.ga.gov/Provider/Details/000000288
 Successfully retrieved violations data for Provider CCLC-288 at https://families.decal.ga.gov/Provider/Details/000000288
 Provider EX-48660 redirected to https://families.decal.ga.gov/ChildCare/Detail/48660
 Provider EX-42092 redirected to https://families.decal.ga.gov/ChildCare/Detail/42092
@@ -7539,6 +7576,7 @@ Provider LSS-737 redirected to https://families.decal.ga.gov/ChildCare/Detail/73
 Successfully retrieved violations data for Provider CCLC-60832 at https://families.decal.ga.gov/Provider/Details/60832
 Successfully retrieved violations data for Provider FR-62414 at https://families.decal.ga.gov/Provider/Details/62414
 Successfully retrieved violations data for Provider CCLC-3459 at https://families.decal.ga.gov/Provider/Details/000003459
+Successfully retrieved violations data for Provider CCLC-3459 at https://families.decal.ga.gov/Provider/Details/000003459
 Successfully retrieved violations data for Provider CCLC-391 at https://families.decal.ga.gov/Provider/Details/391
 Provider LSS-1343 redirected to https://families.decal.ga.gov/ChildCare/Detail/1343
 Successfully retrieved violations data for Provider FR-25412 at https://families.decal.ga.gov/Provider/Details/25412
@@ -7596,6 +7634,7 @@ Successfully retrieved violations data for Provider CCLC-30654 at https://famili
 Successfully retrieved violations data for Provider CCLC-30369 at https://families.decal.ga.gov/Provider/Details/30369
 Successfully retrieved violations data for Provider CCLC-32454 at https://families.decal.ga.gov/Provider/Details/32454
 Successfully retrieved violations data for Provider CCLC-36407 at https://families.decal.ga.gov/Provider/Details/36407
+Successfully retrieved violations data for Provider CCLC-32470 at https://families.decal.ga.gov/Provider/Details/32470
 Successfully retrieved violations data for Provider CCLC-32470 at https://families.decal.ga.gov/Provider/Details/32470
 Successfully retrieved violations data for Provider CCLC-30691 at https://families.decal.ga.gov/Provider/Details/30691
 Successfully retrieved violations data for Provider CCLC-30663 at https://families.decal.ga.gov/Provider/Details/30663
@@ -7721,6 +7760,7 @@ Successfully retrieved violations data for Provider FR-000002596 at https://fami
 Successfully retrieved violations data for Provider FR-000009737 at https://families.decal.ga.gov/Provider/Details/4349
 Successfully retrieved violations data for Provider FR-9900108710 at https://families.decal.ga.gov/Provider/Details/4363
 Successfully retrieved violations data for Provider FR-000002612 at https://families.decal.ga.gov/Provider/Details/5248
+Successfully retrieved violations data for Provider FR-000002612 at https://families.decal.ga.gov/Provider/Details/5248
 Successfully retrieved violations data for Provider FR-0000250916 at https://families.decal.ga.gov/Provider/Details/4399
 Successfully retrieved violations data for Provider FR-000003765 at https://families.decal.ga.gov/Provider/Details/4415
 Successfully retrieved violations data for Provider FR-000002190 at https://families.decal.ga.gov/Provider/Details/4424
@@ -7728,6 +7768,7 @@ Successfully retrieved violations data for Provider FR-9900107435 at https://fam
 Successfully retrieved violations data for Provider FR-000005670 at https://families.decal.ga.gov/Provider/Details/4432
 Successfully retrieved violations data for Provider FR-000009277 at https://families.decal.ga.gov/Provider/Details/4437
 Successfully retrieved violations data for Provider FR-0500157 at https://families.decal.ga.gov/Provider/Details/13884
+Successfully retrieved violations data for Provider CCLC-32470 at https://families.decal.ga.gov/Provider/Details/32470
 Successfully retrieved violations data for Provider CCLC-32470 at https://families.decal.ga.gov/Provider/Details/32470
 Successfully retrieved violations data for Provider FR-000002362 at https://families.decal.ga.gov/Provider/Details/4449
 Successfully retrieved violations data for Provider FR-0000670383 at https://families.decal.ga.gov/Provider/Details/4489
@@ -7770,9 +7811,11 @@ Successfully retrieved violations data for Provider FR-000010752 at https://fami
 Successfully retrieved violations data for Provider FR-000010242 at https://families.decal.ga.gov/Provider/Details/7320
 Successfully retrieved violations data for Provider FR-9900106568 at https://families.decal.ga.gov/Provider/Details/7325
 Successfully retrieved violations data for Provider FR-000011415 at https://families.decal.ga.gov/Provider/Details/9739
+Successfully retrieved violations data for Provider FR-000011415 at https://families.decal.ga.gov/Provider/Details/9739
 Successfully retrieved violations data for Provider FR-000008774 at https://families.decal.ga.gov/Provider/Details/7371
 Successfully retrieved violations data for Provider FR-000005712 at https://families.decal.ga.gov/Provider/Details/7379
 Successfully retrieved violations data for Provider FR-000010246 at https://families.decal.ga.gov/Provider/Details/7384
+Successfully retrieved violations data for Provider FR-000007146 at https://families.decal.ga.gov/Provider/Details/7390
 Successfully retrieved violations data for Provider FR-000007146 at https://families.decal.ga.gov/Provider/Details/7390
 Successfully retrieved violations data for Provider FR-9900103085 at https://families.decal.ga.gov/Provider/Details/7403
 Successfully retrieved violations data for Provider FR-000008199 at https://families.decal.ga.gov/Provider/Details/9747
@@ -7786,6 +7829,7 @@ Successfully retrieved violations data for Provider FR-9900108154 at https://fam
 Successfully retrieved violations data for Provider FR-0000170023 at https://families.decal.ga.gov/Provider/Details/9765
 Successfully retrieved violations data for Provider FR-000000632 at https://families.decal.ga.gov/Provider/Details/7542
 Successfully retrieved violations data for Provider FR-000011852 at https://families.decal.ga.gov/Provider/Details/4375
+Successfully retrieved violations data for Provider FR-000002996 at https://families.decal.ga.gov/Provider/Details/7593
 Successfully retrieved violations data for Provider FR-000002996 at https://families.decal.ga.gov/Provider/Details/7593
 Successfully retrieved violations data for Provider FR-000000793 at https://families.decal.ga.gov/Provider/Details/7617
 Successfully retrieved violations data for Provider FR-000005844 at https://families.decal.ga.gov/Provider/Details/7620
@@ -7830,6 +7874,7 @@ Successfully retrieved violations data for Provider FR-000005654 at https://fami
 Successfully retrieved violations data for Provider FR-000008030 at https://families.decal.ga.gov/Provider/Details/8831
 Successfully retrieved violations data for Provider FR-000008025 at https://families.decal.ga.gov/Provider/Details/8620
 Successfully retrieved violations data for Provider FR-9900102438 at https://families.decal.ga.gov/Provider/Details/4562
+Successfully retrieved violations data for Provider FR-9900102438 at https://families.decal.ga.gov/Provider/Details/4562
 Successfully retrieved violations data for Provider FR-000007262 at https://families.decal.ga.gov/Provider/Details/8046
 Successfully retrieved violations data for Provider FR-000009628 at https://families.decal.ga.gov/Provider/Details/10385
 Successfully retrieved violations data for Provider FR-000012708 at https://families.decal.ga.gov/Provider/Details/10386
@@ -7842,6 +7887,7 @@ Successfully retrieved violations data for Provider FR-000011652 at https://fami
 Successfully retrieved violations data for Provider FR-0000441260 at https://families.decal.ga.gov/Provider/Details/4340
 Successfully retrieved violations data for Provider FR-000009803 at https://families.decal.ga.gov/Provider/Details/8700
 Successfully retrieved violations data for Provider FR-000013041 at https://families.decal.ga.gov/Provider/Details/10910
+Successfully retrieved violations data for Provider FR-000013041 at https://families.decal.ga.gov/Provider/Details/10910
 Successfully retrieved violations data for Provider FR-9900107949 at https://families.decal.ga.gov/Provider/Details/8830
 Successfully retrieved violations data for Provider FR-0000250316 at https://families.decal.ga.gov/Provider/Details/8020
 Successfully retrieved violations data for Provider FR-0500060 at https://families.decal.ga.gov/Provider/Details/13956
@@ -7849,6 +7895,7 @@ Successfully retrieved violations data for Provider FR-000008186 at https://fami
 Successfully retrieved violations data for Provider FR-9105100367 at https://families.decal.ga.gov/Provider/Details/9935
 Successfully retrieved violations data for Provider FR-000009938 at https://families.decal.ga.gov/Provider/Details/8143
 Successfully retrieved violations data for Provider FR-9900106227 at https://families.decal.ga.gov/Provider/Details/8895
+Successfully retrieved violations data for Provider FR-9105100298 at https://families.decal.ga.gov/Provider/Details/10008
 Successfully retrieved violations data for Provider FR-9105100298 at https://families.decal.ga.gov/Provider/Details/10008
 Successfully retrieved violations data for Provider FR-0500048 at https://families.decal.ga.gov/Provider/Details/13958
 Successfully retrieved violations data for Provider FR-0000250947 at https://families.decal.ga.gov/Provider/Details/8546
@@ -7882,6 +7929,7 @@ Successfully retrieved violations data for Provider FR-0000601609 at https://fam
 Successfully retrieved violations data for Provider FR-9900102825 at https://families.decal.ga.gov/Provider/Details/5263
 Provider FR-9900104750 redirected to https://families.decal.ga.gov/ChildCare/Search
 Successfully retrieved violations data for Provider FR-000006143 at https://families.decal.ga.gov/Provider/Details/5345
+Successfully retrieved violations data for Provider FR-000007818 at https://families.decal.ga.gov/Provider/Details/5360
 Successfully retrieved violations data for Provider FR-000007818 at https://families.decal.ga.gov/Provider/Details/5360
 Successfully retrieved violations data for Provider FR-000012850 at https://families.decal.ga.gov/Provider/Details/10472
 Successfully retrieved violations data for Provider FR-9900107442 at https://families.decal.ga.gov/Provider/Details/5385
@@ -7936,6 +7984,7 @@ Successfully retrieved violations data for Provider FR-0500062 at https://famili
 Successfully retrieved violations data for Provider FR-000005375 at https://families.decal.ga.gov/Provider/Details/5963
 Successfully retrieved violations data for Provider FR-000012799 at https://families.decal.ga.gov/Provider/Details/10567
 Successfully retrieved violations data for Provider FR-9900103321 at https://families.decal.ga.gov/Provider/Details/12143
+Successfully retrieved violations data for Provider FR-9900103321 at https://families.decal.ga.gov/Provider/Details/12143
 Successfully retrieved violations data for Provider FR-000008166 at https://families.decal.ga.gov/Provider/Details/9456
 Successfully retrieved violations data for Provider FR-000009934 at https://families.decal.ga.gov/Provider/Details/5978
 Successfully retrieved violations data for Provider FR-000015237 at https://families.decal.ga.gov/Provider/Details/13774
@@ -7962,7 +8011,9 @@ Successfully retrieved violations data for Provider FR-9900103954 at https://fam
 Successfully retrieved violations data for Provider FR-000010953 at https://families.decal.ga.gov/Provider/Details/6307
 Successfully retrieved violations data for Provider FR-000005073 at https://families.decal.ga.gov/Provider/Details/6328
 Successfully retrieved violations data for Provider FR-9105100152 at https://families.decal.ga.gov/Provider/Details/9523
+Successfully retrieved violations data for Provider FR-9105100152 at https://families.decal.ga.gov/Provider/Details/9523
 Successfully retrieved violations data for Provider FR-0000330244 at https://families.decal.ga.gov/Provider/Details/6390
+Successfully retrieved violations data for Provider FR-000002265 at https://families.decal.ga.gov/Provider/Details/6407
 Successfully retrieved violations data for Provider FR-000002265 at https://families.decal.ga.gov/Provider/Details/6407
 Successfully retrieved violations data for Provider FR-000014359 at https://families.decal.ga.gov/Provider/Details/12503
 Successfully retrieved violations data for Provider FR-0000330592 at https://families.decal.ga.gov/Provider/Details/6425
@@ -8004,6 +8055,7 @@ Successfully retrieved violations data for Provider FR-000007358 at https://fami
 Successfully retrieved violations data for Provider FR-000007224 at https://families.decal.ga.gov/Provider/Details/6802
 Successfully retrieved violations data for Provider FR-000013617 at https://families.decal.ga.gov/Provider/Details/11564
 Successfully retrieved violations data for Provider FR-9900106254 at https://families.decal.ga.gov/Provider/Details/6819
+Successfully retrieved violations data for Provider FR-0000370007 at https://families.decal.ga.gov/Provider/Details/6852
 Successfully retrieved violations data for Provider FR-0000370007 at https://families.decal.ga.gov/Provider/Details/6852
 Successfully retrieved violations data for Provider FR-0000120004 at https://families.decal.ga.gov/Provider/Details/6855
 Successfully retrieved violations data for Provider FR-9900104652 at https://families.decal.ga.gov/Provider/Details/6859
@@ -8068,7 +8120,7 @@ Successfully retrieved violations data for Provider FR-0000640120 at https://fam
 Successfully retrieved violations data for Provider FR-9900108387 at https://families.decal.ga.gov/Provider/Details/9926
 Successfully retrieved violations data for Provider FR-000005066 at https://families.decal.ga.gov/Provider/Details/8439
 Successfully retrieved violations data for Provider FR-9900107009 at https://families.decal.ga.gov/Provider/Details/9943
-Successfully retrieved violations data for Provider FR-9900102642 at https://families.decal.ga.gov/Provider/Details/8464
+Provider FR-9900102642 redirected to https://families.decal.ga.gov/ChildCare/Search
 Successfully retrieved violations data for Provider FR-9900107012 at https://families.decal.ga.gov/Provider/Details/8483
 Successfully retrieved violations data for Provider FR-000010983 at https://families.decal.ga.gov/Provider/Details/9950
 Successfully retrieved violations data for Provider FR-000013355 at https://families.decal.ga.gov/Provider/Details/11864
@@ -8084,5 +8136,5 @@ Successfully retrieved violations data for Provider FR-000012117 at https://fami
 Successfully retrieved violations data for Provider FR-000012767 at https://families.decal.ga.gov/Provider/Details/10485
 Successfully retrieved violations data for Provider FR-000009678 at https://families.decal.ga.gov/Provider/Details/8870
 Successfully retrieved violations data for Provider FR-000009888 at https://families.decal.ga.gov/Provider/Details/8917
-Successfully retrieved violations data for Provider FR-000007921 at https://families.decal.ga.gov/Provider/Details/8983
+Provider FR-000007921 redirected to https://families.decal.ga.gov/ChildCare/Search
 Successfully retrieved violations data for Provider FR-000002457 at https://families.decal.ga.gov/Provider/Details/10042

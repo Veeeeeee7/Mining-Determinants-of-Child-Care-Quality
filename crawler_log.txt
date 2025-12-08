@@ -1,0 +1,20 @@
+Partially crawled data for provider ID EX-54999, errors in: [compliance], at URL https://families.decal.ga.gov/ChildCare/Detail/54999 and https://families.decal.ga.gov/Provider/Details/54999
+Partially crawled data for provider ID EX-62247, errors in: [compliance], at URL https://families.decal.ga.gov/ChildCare/Detail/62247 and https://families.decal.ga.gov/Provider/Details/62247
+Partially crawled data for provider ID EX-62249, errors in: [compliance], at URL https://families.decal.ga.gov/ChildCare/Detail/62249 and https://families.decal.ga.gov/Provider/Details/62249
+Partially crawled data for provider ID EX-57638, errors in: [compliance], at URL https://families.decal.ga.gov/ChildCare/Detail/57638 and https://families.decal.ga.gov/Provider/Details/57638
+Successfully crawled data for provider ID CCLC-28747 at URL https://families.decal.ga.gov/ChildCare/Detail/28747 and https://families.decal.ga.gov/Provider/Details/28747
+Failed to crawl data for provider ID CCLC-33205, errors in: [provider_page], at URL https://families.decal.ga.gov/ChildCare/Detail/33205 and https://families.decal.ga.gov/Provider/Details/33205
+Successfully crawled data for provider ID CCLC-62858 at URL https://families.decal.ga.gov/ChildCare/Detail/62858 and https://families.decal.ga.gov/Provider/Details/62858
+Successfully crawled data for provider ID CCLC-38436 at URL https://families.decal.ga.gov/ChildCare/Detail/38436 and https://families.decal.ga.gov/Provider/Details/38436
+Failed to crawl data for provider ID CCLC-35618, errors in: [provider_page], at URL https://families.decal.ga.gov/ChildCare/Detail/35618 and https://families.decal.ga.gov/Provider/Details/35618
+Partially crawled data for provider ID EX-45700, errors in: [compliance], at URL https://families.decal.ga.gov/ChildCare/Detail/45700 and https://families.decal.ga.gov/Provider/Details/45700
+Successfully crawled data for provider ID CCLC-28408 at URL https://families.decal.ga.gov/ChildCare/Detail/28408 and https://families.decal.ga.gov/Provider/Details/28408
+Successfully crawled data for provider ID CCLC-22766 at URL https://families.decal.ga.gov/ChildCare/Detail/22766 and https://families.decal.ga.gov/Provider/Details/22766
+Successfully crawled data for provider ID CCLC-37311 at URL https://families.decal.ga.gov/ChildCare/Detail/37311 and https://families.decal.ga.gov/Provider/Details/37311
+Partially crawled data for provider ID DOD-37488, errors in: [compliance], at URL https://families.decal.ga.gov/ChildCare/Detail/37488 and https://families.decal.ga.gov/Provider/Details/37488
+Successfully crawled data for provider ID CCLC-36694 at URL https://families.decal.ga.gov/ChildCare/Detail/36694 and https://families.decal.ga.gov/Provider/Details/36694
+Partially crawled data for provider ID EX-62139, errors in: [compliance], at URL https://families.decal.ga.gov/ChildCare/Detail/62139 and https://families.decal.ga.gov/Provider/Details/62139
+Partially crawled data for provider ID EX-51746, errors in: [compliance], at URL https://families.decal.ga.gov/ChildCare/Detail/51746 and https://families.decal.ga.gov/Provider/Details/51746
+Partially crawled data for provider ID EX-57640, errors in: [compliance], at URL https://families.decal.ga.gov/ChildCare/Detail/57640 and https://families.decal.ga.gov/Provider/Details/57640
+Partially crawled data for provider ID EX-57636, errors in: [compliance], at URL https://families.decal.ga.gov/ChildCare/Detail/57636 and https://families.decal.ga.gov/Provider/Details/57636
+Partially crawled data for provider ID EX-51915, errors in: [compliance], at URL https://families.decal.ga.gov/ChildCare/Detail/51915 and https://families.decal.ga.gov/Provider/Details/51915
